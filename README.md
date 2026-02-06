@@ -26,7 +26,7 @@ The key objectives of this project are:
 
 ## Dataset
 
-- **Source:** Public Airbnb dataset (as provided in the original repository)
+- **Source:** Public Airbnb dataset 
 - **Format:** CSV (structured tabular data)
 
 ### Key Features
