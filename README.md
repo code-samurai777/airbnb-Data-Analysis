@@ -1,5 +1,13 @@
 # Airbnb Data Analysis 
 
+## About Airbnb
+
+Airbnb is a global online marketplace founded in 2008 by Brian Chesky, Joe Gebbia, and Nathan Blecharczyk. It connects hosts who offer accommodations and experiences with guests seeking short-term stays around the world.
+
+Over time, Airbnb has evolved into one of the largest hospitality platforms globally, with millions of listings across thousands of cities in more than 220 countries and regions. The platform offers a wide variety of lodging options, including apartments, houses, villas, and unique stays such as treehouses and boats.
+
+By enabling travelers to stay in local neighborhoods rather than traditional hotels, Airbnb provides more personalized travel experiences. At the same time, it allows hosts to generate income by listing their properties. Airbnb’s secure payment system, review-based trust mechanism, and user-friendly interface have contributed significantly to its global adoption.
+
 ## Overview
 
 This project performs exploratory data analysis (EDA) on Airbnb listing data to uncover patterns related to pricing, availability, room types, and location-based trends. The analysis focuses on understanding how different features influence Airbnb listings and user demand.
